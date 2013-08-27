@@ -14,9 +14,9 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="JUGG-Plakat-gruen2.svg"
-   inkscape:export-filename="D:\Sonstiges\JUGGR\juggr\Plakat\JUGG-Plakat-grün2.png"
+   inkscape:export-filename="/home/manuel/workspaces/juggr/grafiken/Plakat/svg/JUGG-Plakat-gruen2.png"
    inkscape:export-xdpi="90.099998"
    inkscape:export-ydpi="90.099998">
   <defs
@@ -49,17 +49,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="156.17872"
-     inkscape:cy="726.906"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="453.12862"
+     inkscape:cy="522.86232"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="1138"
-     inkscape:window-x="1592"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
+     inkscape:window-width="681"
+     inkscape:window-height="714"
+     inkscape:window-x="683"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -190,20 +190,20 @@
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended Bold"
-       x="39.380581"
-       y="88.076515"
+       x="47.4618"
+       y="104.23895"
        id="text3852"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="39.380581"
-         y="88.076515"
+         x="47.4618"
+         y="104.23895"
          id="tspan3856"
-         style="font-size:64px;font-weight:bold;fill:#ffffff;stroke:#292929;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:OCR A Extended Bold">Java User Group</tspan><tspan
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#292929;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Java User Group</tspan><tspan
          sodipodi:role="line"
-         x="39.380581"
-         y="168.07652"
+         x="47.4618"
+         y="184.23895"
          id="tspan4198"
-         style="font-size:64px;font-weight:bold;fill:#ffffff;stroke:#292929;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:OCR A Extended Bold">Görlitz</tspan></text>
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#292929;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Görlitz</tspan></text>
     <g
        id="g3905"
        transform="translate(-5.435236,73.142857)"
@@ -247,19 +247,7 @@
          sodipodi:role="line"
          x="216.2392"
          y="922.77179"
-         id="tspan3992">http://juggr.pbworks.com </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50.74985504px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended"
-       x="142.80392"
-       y="717.85181"
-       id="text3852-1"
-       sodipodi:linespacing="89.999998%"
-       transform="scale(0.8106446,1.2335862)"><tspan
-         sodipodi:role="line"
-         x="142.80392"
-         y="717.85181"
-         id="tspan4200">Java IT in Görlitz</tspan></text>
+         id="tspan3992">http://juggr.github.io </tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
        d="m 495.37408,193.5 c -92.79497,0 -168.03125,27.8357 -168.03125,62.15625 0,16.25677 16.90254,31.05048 44.53125,42.125 l -87.0625,72.875 112.4375,-64.59375 c 27.61281,7.36306 61.48379,11.71875 98.125,11.71875 92.79497,0 168.03125,-27.80445 168.03125,-62.125 0,-34.32055 -75.23628,-62.15625 -168.03125,-62.15625 z"
@@ -302,5 +290,18 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3004"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:-13.44999980999999956px;word-spacing:0px;fill:#c7c7c7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold"
+       transform="matrix(0.73614926,0,0,0.73614926,56.504943,533.42808)"><flowRegion
+         id="flowRegion3006"><rect
+           id="rect3008"
+           width="760"
+           height="380"
+           x="191.42857"
+           y="289.50504"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-13.44999980999999956px;word-spacing:0px;fill:#c7c7c7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold" /></flowRegion><flowPara
+         id="flowPara3010"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-13.44999980999999956px;word-spacing:0px;fill:#c7c7c7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold">jug|gr</flowPara></flowRoot>  </g>
 </svg>
