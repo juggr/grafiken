@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="JUGG-Plakat-gruen2.svg"
+   sodipodi:docname="JUGG-Plakat-gruen2.pdf"
    inkscape:export-filename="/home/manuel/workspaces/juggr/grafiken/Plakat/svg/JUGG-Plakat-gruen2.png"
    inkscape:export-xdpi="90.099998"
    inkscape:export-ydpi="90.099998">
@@ -50,16 +50,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="453.12862"
-     inkscape:cy="522.86232"
+     inkscape:cx="248.79699"
+     inkscape:cy="128.61468"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="681"
-     inkscape:window-height="714"
-     inkscape:window-x="683"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -189,7 +189,7 @@
        width="744" />
     <text
        xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended Bold"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended Bold;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="47.4618"
        y="104.23895"
        id="text3852"
@@ -198,12 +198,12 @@
          x="47.4618"
          y="104.23895"
          id="tspan3856"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#292929;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Java User Group</tspan><tspan
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#292929;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Java User Group</tspan><tspan
          sodipodi:role="line"
          x="47.4618"
          y="184.23895"
          id="tspan4198"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#292929;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Görlitz</tspan></text>
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:#292929;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Görlitz</tspan></text>
     <g
        id="g3905"
        transform="translate(-5.435236,73.142857)"
@@ -216,7 +216,7 @@
          x="50.382454"
          style="font-size:35.94699097px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-3px;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-1.95000003px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
            y="529.2749"
            x="50.382454"
            id="tspan3860-7"
@@ -230,7 +230,7 @@
          x="549.41895"
          style="font-size:35.94699097px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:OCR A Extended;-inkscape-font-specification:OCR A Extended Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
            y="573.57239"
            x="549.41895"
            id="tspan3860-7-4"
@@ -290,18 +290,17 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <flowRoot
+    <text
        xml:space="preserve"
-       id="flowRoot3004"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:-13.44999980999999956px;word-spacing:0px;fill:#c7c7c7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold"
-       transform="matrix(0.73614926,0,0,0.73614926,56.504943,533.42808)"><flowRegion
-         id="flowRegion3006"><rect
-           id="rect3008"
-           width="760"
-           height="380"
-           x="191.42857"
-           y="289.50504"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-13.44999980999999956px;word-spacing:0px;fill:#c7c7c7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold" /></flowRegion><flowPara
-         id="flowPara3010"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-13.44999980999999956px;word-spacing:0px;fill:#c7c7c7;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold">jug|gr</flowPara></flowRoot>  </g>
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b5b5b5;fill-opacity:1;stroke:none;font-family:Sans"
+       x="187.88838"
+       y="844.27069"
+       id="text3050"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3052"
+         x="187.88838"
+         y="844.27069"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-8.33000183px;fill:#b5b5b5;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold">jug|gr</tspan></text>
+  </g>
 </svg>
