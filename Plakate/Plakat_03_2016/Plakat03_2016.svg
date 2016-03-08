@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="Plakat03_2016.svg"
-   inkscape:export-filename="D:\JUGGR\grafiken\Plakate\Plakat_01_2016\Plakat01_2016.png"
+   inkscape:export-filename="C:\Users\Marlene\grafiken\Plakate\Plakat_03_2016\Plakat03_2016.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1238,7 +1238,7 @@
            x="45.254833"
            y="423.36221" /></flowRegion><flowPara
          id="flowPara5089"
-         style="font-size:15px;fill:#ffffff">Haskell ist eine funktionale Programmiersprache, die das Paradigma der funktionalen Programmierung so konsequent umsetzt, wie kaum eine andere Sprache. Beispielsweise sind Funktionen in Haskell standardmäßig “pure”, können also keine Seiteneffekte besitzen, was durch das statische Typ-System sichergestellt wird. Eine weitere Eigenschaft, die Haskell von den meisten anderen Sprachen unterscheidet, ist die nicht-strikte Auswertung von   Ausdrücken, was im allgemeinen durch Lazy-Evaluation umgesetzt wird. Dadurch kann Haskell beispielsweise ohne weiteres mit unendlichen Listen umgehen, ohne dafür besondere Sprachkonstrukte zu benötigen.</flowPara><flowPara
+         style="font-size:15px;fill:#ffffff">Haskell ist eine funktionale Programmiersprache, die das Paradigma der funktionalen Programmierung so konsequent umsetzt, wie kaum eine andere Sprache. Beispielsweise sind Funktionen in Haskell standardmäßig “pure”, können also keine Seiteneffekte besitzen, was durch das statische Typ-System sichergestellt wird. Eine weitere Eigenschaft, die Haskell von den meisten anderen Sprachen unterscheidet, ist die nicht-strikte Auswertung von   Ausdrücken, was im allgemeinen durch Lazy-Evaluation umgesetzt wird. Dadurch kann Haskell beispielsweise ohne Weiteres mit unendlichen Listen umgehen, ohne dafür besondere Sprachkonstrukte zu benötigen.</flowPara><flowPara
          id="flowPara4559"
          style="font-size:15px;fill:#ffffff" /><flowPara
          id="flowPara4561"
