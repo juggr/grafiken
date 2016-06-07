@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="329.25388"
-     inkscape:cy="523.81124"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-78.163961"
+     inkscape:cy="415.36207"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,10 +68,10 @@
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect90374"
-       width="765.71423"
-       height="1072.8571"
-       x="-15.34177"
-       y="-6.9742727" />
+       width="721.42853"
+       height="1024.8549"
+       x="22.142857"
+       y="27.5" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4136"
@@ -82,7 +82,7 @@
            height="1052.579"
            x="0"
            y="-2.237052" /></flowRegion><flowPara
-         id="flowPara4142"></flowPara></flowRoot>    <text
+         id="flowPara4142" /></flowRoot>    <text
        id="text8"
        style="font-size:168.18345642px;font-family:Impact;text-anchor:middle;fill:#3c7db7;fill-opacity:1;"
        transform="matrix(0,-0.97657535,1.0239865,0,0,0)"
