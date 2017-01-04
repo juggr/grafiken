@@ -33,11 +33,10 @@
 	.st25{fill:#F58219;stroke:#FFFFFF;stroke-width:2;}
 	.st26{fill:#4E7896;stroke:#FFFFFF;stroke-width:2;}
 	.st27{font-size:20px;}
-	.st28{enable-background:new    ;}
-	.st29{fill:none;stroke:#3366CC;stroke-width:3;stroke-miterlimit:10;}
-	.st30{font-size:18px;}
-	.st31{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st32{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#3366CC;stroke-width:3;stroke-miterlimit:10;}
+	.st29{font-size:18px;}
+	.st30{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <defs>
 	
@@ -95,13 +94,13 @@
 		S469.3,282.6,467.1,280.3L467.1,280.3z"/>
 	<path id="path4706" inkscape:connector-curvature="0" class="st11" d="M485.1,412.5l18.6-16l2.4,2.2l-21.8,15.8l0.8-1.3"/>
 	
-		<ellipse id="path3350" transform="matrix(0.9988 -4.828395e-02 4.828395e-02 0.9988 -14.2309 24.4556)" class="st9" cx="499.1" cy="306.8" rx="4.9" ry="7.7"/>
+		<ellipse id="path3350" transform="matrix(0.9988 -4.828557e-02 4.828557e-02 0.9988 -14.2313 24.4564)" class="st9" cx="499.1" cy="306.8" rx="4.9" ry="7.7"/>
 	
-		<ellipse id="path3350-4" transform="matrix(0.9988 -4.828395e-02 4.828395e-02 0.9988 -14.289 23.0511)" class="st9" cx="470" cy="307.3" rx="4.9" ry="7.7"/>
+		<ellipse id="path3350-4" transform="matrix(0.9988 -4.828557e-02 4.828557e-02 0.9988 -14.2894 23.0519)" class="st9" cx="470" cy="307.3" rx="4.9" ry="7.7"/>
 	
-		<ellipse id="path3350-47" transform="matrix(0.9988 -4.828395e-02 4.828395e-02 0.9988 -14.3388 24.3857)" class="st6" cx="497.6" cy="309" rx="1.5" ry="2.4"/>
+		<ellipse id="path3350-47" transform="matrix(0.9988 -4.828557e-02 4.828557e-02 0.9988 -14.3393 24.3865)" class="st6" cx="497.6" cy="309" rx="1.5" ry="2.4"/>
 	
-		<ellipse id="path3350-47-1" transform="matrix(0.9988 -4.828395e-02 4.828395e-02 0.9988 -14.3727 22.9855)" class="st6" cx="468.6" cy="309" rx="1.5" ry="2.4"/>
+		<ellipse id="path3350-47-1" transform="matrix(0.9988 -4.828557e-02 4.828557e-02 0.9988 -14.3731 22.9863)" class="st6" cx="468.6" cy="309" rx="1.5" ry="2.4"/>
 	
 		<path id="path4251" inkscape:connector-curvature="0" inkscape:original-d="m 606.14282,-430.8521 2.5,-8 c 0,0 -0.5,-18.5 -14,-22 -13.5,-3.5 -44.5,8 -44.5,8 l -3.5,9.5 c 0,0 12.5,-2 25.5,-3 13,-1 29,3.5 34,15.5 z" inkscape:path-effect="#path-effect4253" class="st9" d="
 		M474.5,297.7l0.3-1.1c-0.2-1.2-1-2.3-2.1-2.9c-1-0.6-2.2-0.8-3.3-0.5c-1.1,0.3-2.1,1-2.7,1.9l-0.4,1.3c1.1-0.4,2.3-0.6,3.5-0.6
@@ -406,37 +405,37 @@
 <text transform="matrix(1 0 0 1 33.4998 718.603)" class="st0 st2 st3">19:00 Uhr</text>
 <text transform="matrix(1 0 0 1 33.4998 742.603)" class="st0 st2 st27">Hochschule Zittau/Görlitz</text>
 <g>
-	<text transform="matrix(1 0 0 1 33.4998 766.603)" class="st28"><tspan x="0" y="0" class="st0 st2 st27">Brückenstraße 1 </tspan><tspan x="0" y="24" class="st0 st2 st27">Haus GII, Raum 0.11</tspan><tspan x="0" y="48" class="st0 st2 st27">02826 Görlitz</tspan></text>
-</g>
-<g>
+	<text transform="matrix(1 0 0 1 33.4998 766.603)" class="st0 st2 st27">Brückenstraße 1 </text>
+	<text transform="matrix(1 0 0 1 33.4998 790.603)" class="st0 st2 st27">Haus GII, Raum 0.10</text>
+	<text transform="matrix(1 0 0 1 33.4998 814.603)" class="st0 st2 st27">02826 Görlitz</text>
 </g>
 <text transform="matrix(1 0 0 1 36.2049 814.6033)" class="st2 st3"> </text>
 <rect id="rect4799-6_1_" x="41.2" y="286" class="st20" width="315.3" height="176.6"/>
 <g>
-	<rect x="36" y="292" class="st29" width="295.5" height="301"/>
+	<rect x="36" y="292" class="st28" width="295.5" height="301"/>
 	<rect id="rect5741_1_" x="34.5" y="253.8" class="st1" width="298.4" height="36.8"/>
-	<text transform="matrix(0.982 0 0 1 45.0361 318.124)" class="st2 st30">Unit Testing in Java - dafür ist </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 339.7236)" class="st2 st30">JUnit das Werkzeug der Wahl. Die </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 361.3232)" class="st2 st30">letzte Version JUnit 4 tat dabei </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 382.9238)" class="st2 st30">viele Jahre ihre Dienste und </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 404.5234)" class="st2 st30">wurde kontinuierlich weiterent-</text>
-	<text transform="matrix(0.982 0 0 1 45.0361 426.124)" class="st2 st30">wickelt, stieß allerdings nun doch </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 447.7236)" class="st2 st30">an ihre Grenzen. Der Nach-</text>
-	<text transform="matrix(0.982 0 0 1 45.0361 469.3232)" class="st2 st30">folger JUnit 5 ist eine komplette </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 490.9238)" class="st2 st30">Neuentwicklung und steht kurz </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 512.5234)" class="st2 st30">vor dem Release. Wir wollen uns </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 534.124)" class="st2 st30">ansehen, welche Neuerungen </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 555.7236)" class="st2 st30">JUnit 5 mit sich bringt und was es </text>
-	<text transform="matrix(0.982 0 0 1 45.0361 577.3232)" class="st2 st30">beim Umstieg zu beachten gilt. </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 318.124)" class="st2 st29">Unit Testing in Java - dafür ist </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 339.7236)" class="st2 st29">JUnit das Werkzeug der Wahl. Die </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 361.3232)" class="st2 st29">letzte Version JUnit 4 tat dabei </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 382.9238)" class="st2 st29">viele Jahre ihre Dienste und </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 404.5234)" class="st2 st29">wurde kontinuierlich weiterent-</text>
+	<text transform="matrix(0.982 0 0 1 45.0356 426.124)" class="st2 st29">wickelt, stieß allerdings nun doch </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 447.7236)" class="st2 st29">an ihre Grenzen. Der Nach-</text>
+	<text transform="matrix(0.982 0 0 1 45.0356 469.3232)" class="st2 st29">folger JUnit 5 ist eine komplette </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 490.9238)" class="st2 st29">Neuentwicklung und steht kurz </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 512.5234)" class="st2 st29">vor dem Release. Wir wollen uns </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 534.124)" class="st2 st29">ansehen, welche Neuerungen </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 555.7236)" class="st2 st29">JUnit 5 mit sich bringt und was es </text>
+	<text transform="matrix(0.982 0 0 1 45.0356 577.3232)" class="st2 st29">beim Umstieg zu beachten gilt. </text>
 	<text transform="matrix(1 0 0 1 46.3285 281.5823)" class="st0 st2 st27">Thema</text>
 </g>
-<line class="st31" x1="418.5" y1="411.5" x2="423.5" y2="412.1"/>
+<line class="st30" x1="418.5" y1="411.5" x2="423.5" y2="412.1"/>
 <path class="st6" d="M400.3,416c-0.2-2.2-0.3-4.4-0.5-6.5l23.4,3.3v6.6L400.3,416z"/>
 <polygon class="st6" points="423.2,412.8 424.4,412.3 424.4,415.8 423.2,415.8 "/>
-<path class="st32" d="M402.1,408.5"/>
-<path class="st32" d="M399.4,409.3"/>
-<path class="st32" d="M401.7,408.4"/>
-<path class="st32" d="M425.1,411.8"/>
-<line class="st32" x1="424.9" y1="411.8" x2="400.9" y2="408.4"/>
-<line class="st32" x1="399.6" y1="409.3" x2="401.2" y2="408.3"/>
+<path class="st31" d="M402.1,408.5"/>
+<path class="st31" d="M399.4,409.3"/>
+<path class="st31" d="M401.7,408.4"/>
+<path class="st31" d="M425.1,411.8"/>
+<line class="st31" x1="424.9" y1="411.8" x2="400.9" y2="408.4"/>
+<line class="st31" x1="399.6" y1="409.3" x2="401.2" y2="408.3"/>
 </svg>
